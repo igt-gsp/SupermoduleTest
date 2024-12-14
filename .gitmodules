@@ -4,3 +4,7 @@
 [submodule "SubmoduleTest2"]
 	path = SubmoduleTest2
 	url = ../SubmoduleTest2.git
+[submodule "SubmoduleTest3"]
+	path = SubmoduleTest3
+	url = https://github.com/igt-gsp/SubmoduleTest3.git
+	branch = main
